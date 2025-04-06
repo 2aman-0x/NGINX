@@ -1,3 +1,5 @@
+source: [here](https://youtu.be/EmtCxPCo4WY?si=xQbWHcalvoSR0S1O)
+
 ## What is NGINX?
 
 It is a web server that accept request via /s and reposnd to display website content through storing, processing and deliveing web pages to users.  
